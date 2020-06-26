@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>alena-aenami12.jpg</file>
+        <file>alena-aenami19.jpg</file>
+        <file>alena-aenami-over-the-city1k.jpg</file>
+        <file>alena-aenami-aenami-away-in-silence-art-art-by-alena-aenami.jpg</file>
+    </qresource>
+</RCC>
